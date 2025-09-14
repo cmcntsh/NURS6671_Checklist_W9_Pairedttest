@@ -177,7 +177,7 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td>How will you report results?</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>Example: Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br>A paired t-test was conducted to compare pre-test and post-test scores of nursing students after completing a simulation-based training. The results showed a significant increase in scores after the training, t(29)=3.85,p=.001,d=On average, students scored higher on the post-test (M = 85.2, SD = 5.1) compared to the pre-test (M = 78.6, SD = 6.3). This suggests that the simulation training had a positive effect on students' performance.<br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ <br>Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br>Example: A paired t-test was conducted to compare pre-test and post-test scores of nursing students after completing a simulation-based training. The results showed a significant increase in scores after the training, t(29)=3.85,p=.001,d=On average, students scored higher on the post-test (M = 85.2, SD = 5.1) compared to the pre-test (M = 78.6, SD = 6.3). This suggests that the simulation training had a positive effect on students' performance.<br></td>
 </tr>
 </table>
 
